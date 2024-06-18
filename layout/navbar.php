@@ -10,10 +10,10 @@
                     <a class="nav-link active" href="./index.php" aria-current="page">Inicio <span class="visually-hidden">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="./catalogo.php">Catalogo de animes</a>
+                    <a class="nav-link" href="./catalogo.php">Nuevos productos</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="./filtro.php">filtro</a>
+                    <a class="nav-link" href="./filtro.php">Filtro</a>
                 </li>
                 <?php
                 if (!isset($_SESSION['nombre'])) {
@@ -43,10 +43,10 @@
                 ?>
             </ul>
             <!-- <form id="form-busqueda">
-                <input type="text" id="busqueda" placeholder="Buscar anime">
+                <input type="text" id="busqueda" placeholder="Buscar nuevos productos">
             </form> -->
             <div class="">
-                <input type="text" id="busqueda" placeholder="Buscar anime">
+                <input type="text" id="busqueda" placeholder="Buscar nuevos productos">
                 <ul id="sugerencias" class="list-group mt-2"></ul>
             </div>
 
