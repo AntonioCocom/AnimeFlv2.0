@@ -38,7 +38,7 @@
                     <div class="card h-100">
                         <img src="./img/alexa.jpg" class="card-img-top" alt="Anime 2" height="400 px" width="500 px">
                         <div class="card-body">
-                            <h5 class="card-title">One Piece</h5>
+                            <h5 class="card-title">Alexa</h5>
                             <p class="card-text">Amazon Echo Dot Alexa 5ta Generación / Negro</p>
                         </div>
                         <div class="card-footer">
