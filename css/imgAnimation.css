@@ -1,0 +1,8 @@
+.imgAnimation {
+  transition: all 0.5s;
+}
+
+.imgAnimation:hover {
+  transform: scale(1.2);
+}
+
